@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Free Fire Updates</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white font-sans">
+
+  <!-- Header -->
+  <header class="bg-gray-800 p-4 shadow-md">
+    <h1 class="text-2xl font-bold text-center">Free Fire Updates</h1>
+  </header>
+
+  <!-- Main Content -->
+  <main class="p-4 space-y-6">
+
+    <!-- Latest Update -->
+    <section class="bg-gray-800 p-4 rounded-xl shadow-lg">
+      <h2 class="text-xl font-semibold mb-2">Latest Update</h2>
+      <p class="text-gray-300">New OB45 patch coming May 15 with new character "Kairos", new pet "Finn", and ranked mode changes!</p>
+    </section>
+
+    <!-- Patch Notes -->
+    <section class="bg-gray-800 p-4 rounded-xl shadow-lg">
+      <h2 class="text-xl font-semibold mb-2">Patch Notes</h2>
+      <ul class="list-disc list-inside text-gray-300 space-y-1">
+        <li>New character: Kairos – disrupt enemy shields</li>
+        <li>Ranked system improved with better rewards</li>
+        <li>Bug fixes and UI improvements</li>
+      </ul>
+    </section>
+
+    <!-- News Section -->
+    <section class="bg-gray-800 p-4 rounded-xl shadow-lg">
+      <h2 class="text-xl font-semibold mb-2">Upcoming Events</h2>
+      <ul class="space-y-2 text-gray-300">
+        <li>Double Diamond Top-up – May 10 to May 16</li>
+        <li>Booyah Festival – Starting May 20</li>
+      </ul>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-800 p-4 text-center text-sm text-gray-500 mt-8">
+    &copy; 2025 Free Fire Update Hub. All rights reserved.
+  </footer>
+
+</body>
+</html>
